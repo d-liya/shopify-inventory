@@ -124,7 +124,7 @@ This shows how to install necessary technologies using homebrew for OSX. Home br
 
 1. Clone the repo
    ```
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/d-liya/shopify-inventory.git
    ```
    
 2. Navigate to the client. Install NPM packages
