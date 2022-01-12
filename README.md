@@ -89,7 +89,7 @@ To get a local copy up and running follow these simple example steps.
 
 #### Server
 
-Below are the prerequisites to run the spring boot server. [Installation guide](https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started.html)
+Below are the prerequisites to run the spring boot server. Offical installation guide can be found [here](https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started.html)  if needed.
 This shows how to install necessary technologies using homebrew for OSX. Home brew can be installed pasting below link in the terminal. 
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)
